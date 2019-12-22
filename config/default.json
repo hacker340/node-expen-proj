@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://srikanth:crawlink1234@cluster0-43vms.mongodb.net/expences?retryWrites=true&w=majority"
+}
